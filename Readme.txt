@@ -1,14 +1,16 @@
 To compile and run the program, you can follow these steps:
 
 1. Click the submitted GitHub link.
-2. Select "code" and copy the https link.
-3. Launch a Visual Studio
-4. Select "Clone repository" from the menu.
-5. Paste the https link you copied from GitHub into the "Repository location" textbox.
-6. Next, click "Clone" below.
-7. Use the appropriate build or run command in your IDE to compile the programme.
-8. Following a successful compilation, the programme ought should launch and show the menu.
-9. To engage with the programme, follow to the instructions provided and enter your preferences.
+2. It will take you to the repository page.
+3. Click on "LibraryApp.zip" and download row file
+4. After downlowding extra all files
+5. Launch a Visual Studio
+6. Select "open a local folder" from the menu.
+7. Select the extrated file
+8. Next, click "open" below.
+9. Use the appropriate build or run command in your IDE to compile the programme.
+10. Following a successful compilation, the programme ought should launch and show the menu.
+11. To engage with the programme, follow to the instructions provided and enter your preferences.
 
 
 Usage Instructions:
